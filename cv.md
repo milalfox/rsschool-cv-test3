@@ -21,3 +21,11 @@ Hi! I am 34 years old and I am a chemistry teacher. I decided to change my occup
 
 ## Work experience
 At first I was a teacher of chemistry and biology (2010-2014). Then she worked as a laboratory assistant in chemical analysis (2015-2016). I am currently a chemistry tutor (from 2016 to the present). There is no work experience in the IT industry yet, but I plan to get it in the future.
+
+## English
+At the moment I am independently studying English, I strive to get level A2.
+
+## Hobbies
+* Reading of books
+* Helping stray animals
+* Travels
